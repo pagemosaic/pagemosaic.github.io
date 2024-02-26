@@ -1,2 +1,1 @@
-# pagemosaic.github.io
-Page Mosaic Service Website
+# Page Mosaic Service Website
