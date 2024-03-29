@@ -1,6 +1,7 @@
 [
   {
     "title": "Probe Website Template",
+    "description": "Some description",
     "imageUrl": "",
     "downloadUrl": "https://github.com/pagemosaic/website-template-1/archive/refs/heads/main.zip",
     "repository": "https://github.com/pagemosaic/website-template-1",
